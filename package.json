@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ottiemobile/teamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ottiemobile/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Ottiemobile/teamProfileGenerator#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.2",
+    "path": "^0.12.7"
+  }
+}
